@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-12T07:02:55 IST" name="Saucedemo Automation Suite" finished-at="2026-10-12T07:03:23 IST" duration-ms="28612">
+    <groups>
+    </groups>
+    <test started-at="2026-10-12T07:02:55 IST" name="Functional Test" finished-at="2026-10-12T07:03:23 IST" duration-ms="28612">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:02:55 IST" name="setup" finished-at="2026-10-12T07:03:00 IST" duration-ms="5368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:00 IST" name="verifyLoginWithValidCredentials" finished-at="2026-10-12T07:03:01 IST" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:01 IST" name="tearDown" finished-at="2026-10-12T07:03:02 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:02 IST" name="setup" finished-at="2026-10-12T07:03:04 IST" duration-ms="2562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:2, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:04 IST" name="verifyLoginWithInvalidCredentials" finished-at="2026-10-12T07:03:05 IST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:05 IST" name="tearDown" finished-at="2026-10-12T07:03:06 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:06 IST" name="setup" finished-at="2026-10-12T07:03:08 IST" duration-ms="2440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithLockedAccountCredentials()[pri:3, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:08 IST" name="verifyLoginWithLockedAccountCredentials" finished-at="2026-10-12T07:03:09 IST" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithLockedAccountCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@c7ba306]" started-at="2026-10-12T07:03:09 IST" name="tearDown" finished-at="2026-10-12T07:03:10 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.ProductsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ProductsTest@74589991]" started-at="2026-10-12T07:03:10 IST" name="setup" finished-at="2026-10-12T07:03:13 IST" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductCount()[pri:1, instance:tests.ProductsTest@74589991]" started-at="2026-10-12T07:03:13 IST" name="verifyProductCount" finished-at="2026-10-12T07:03:14 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ProductsTest@74589991]" started-at="2026-10-12T07:03:14 IST" name="tearDown" finished-at="2026-10-12T07:03:14 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ProductsTest@74589991]" started-at="2026-10-12T07:03:14 IST" name="setup" finished-at="2026-10-12T07:03:17 IST" duration-ms="2460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductIsPresent()[pri:2, instance:tests.ProductsTest@74589991]" started-at="2026-10-12T07:03:17 IST" name="verifyProductIsPresent" finished-at="2026-10-12T07:03:18 IST" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductIsPresent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ProductsTest@74589991]" started-at="2026-10-12T07:03:18 IST" name="tearDown" finished-at="2026-10-12T07:03:19 IST" duration-ms="785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ProductsTest -->
+      <class name="tests.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LogoutTest@146dfe6]" started-at="2026-10-12T07:03:19 IST" name="setup" finished-at="2026-10-12T07:03:21 IST" duration-ms="2450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogoutFunctionality()[pri:1, instance:tests.LogoutTest@146dfe6]" started-at="2026-10-12T07:03:21 IST" name="verifyLogoutFunctionality" finished-at="2026-10-12T07:03:23 IST" duration-ms="1667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LogoutTest@146dfe6]" started-at="2026-10-12T07:03:23 IST" name="tearDown" finished-at="2026-10-12T07:03:23 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LogoutTest -->
+    </test> <!-- Functional Test -->
+  </suite> <!-- Saucedemo Automation Suite -->
+</testng-results>

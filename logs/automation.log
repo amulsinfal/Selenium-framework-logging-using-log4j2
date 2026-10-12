@@ -1,0 +1,56 @@
+[INFO ] 2026-10-12 07:02:59.692 [main] base.BaseTest::setup::46 - Chrome browser launched successfully.
+[INFO ] 2026-10-12 07:02:59.759 [main] base.BaseTest::setup::48 - Chrome browser maximised.
+[INFO ] 2026-10-12 07:02:59.779 [main] base.BaseTest::setup::50 - ImplicitlyWait set to 10 seconds.
+[INFO ] 2026-10-12 07:03:00.492 [main] base.BaseTest::setup::52 - Navigted to https://www.saucedemo.com/
+[INFO ] 2026-10-12 07:03:00.878 [main] pages.LoginPage::enterUsername::30 - Username entered: standard_user
+[INFO ] 2026-10-12 07:03:01.045 [main] pages.LoginPage::enterPassword::35 - Password entered: secret_sauce
+[INFO ] 2026-10-12 07:03:01.260 [main] pages.LoginPage::clickLoginButton::40 - Login button clicked.
+[INFO ] 2026-10-12 07:03:01.451 [main] pages.ProductsPage::getPageHeader::33 - Products Page header: Products
+[INFO ] 2026-10-12 07:03:02.010 [main] base.BaseTest::tearDown::58 - Chrome browser quit successfully.
+[INFO ] 2026-10-12 07:03:03.660 [main] base.BaseTest::setup::46 - Chrome browser launched successfully.
+[INFO ] 2026-10-12 07:03:03.753 [main] base.BaseTest::setup::48 - Chrome browser maximised.
+[INFO ] 2026-10-12 07:03:03.778 [main] base.BaseTest::setup::50 - ImplicitlyWait set to 10 seconds.
+[INFO ] 2026-10-12 07:03:04.578 [main] base.BaseTest::setup::52 - Navigted to https://www.saucedemo.com/
+[INFO ] 2026-10-12 07:03:04.883 [main] pages.LoginPage::enterUsername::30 - Username entered: invalid_user
+[INFO ] 2026-10-12 07:03:05.062 [main] pages.LoginPage::enterPassword::35 - Password entered: invalid_pass
+[INFO ] 2026-10-12 07:03:05.242 [main] pages.LoginPage::clickLoginButton::40 - Login button clicked.
+[INFO ] 2026-10-12 07:03:05.316 [main] pages.LoginPage::getErrorMessage::59 - Error message displayed: Epic sadface: Username and password do not match any user in this service
+[INFO ] 2026-10-12 07:03:06.428 [main] base.BaseTest::tearDown::58 - Chrome browser quit successfully.
+[INFO ] 2026-10-12 07:03:08.035 [main] base.BaseTest::setup::46 - Chrome browser launched successfully.
+[INFO ] 2026-10-12 07:03:08.144 [main] base.BaseTest::setup::48 - Chrome browser maximised.
+[INFO ] 2026-10-12 07:03:08.154 [main] base.BaseTest::setup::50 - ImplicitlyWait set to 10 seconds.
+[INFO ] 2026-10-12 07:03:08.872 [main] base.BaseTest::setup::52 - Navigted to https://www.saucedemo.com/
+[INFO ] 2026-10-12 07:03:09.203 [main] pages.LoginPage::enterUsername::30 - Username entered: locked_out_user
+[INFO ] 2026-10-12 07:03:09.371 [main] pages.LoginPage::enterPassword::35 - Password entered: secret_sauce
+[INFO ] 2026-10-12 07:03:09.556 [main] pages.LoginPage::clickLoginButton::40 - Login button clicked.
+[INFO ] 2026-10-12 07:03:09.627 [main] pages.LoginPage::getErrorMessage::59 - Error message displayed: Epic sadface: Sorry, this user has been locked out.
+[INFO ] 2026-10-12 07:03:10.226 [main] base.BaseTest::tearDown::58 - Chrome browser quit successfully.
+[INFO ] 2026-10-12 07:03:12.483 [main] base.BaseTest::setup::46 - Chrome browser launched successfully.
+[INFO ] 2026-10-12 07:03:12.670 [main] base.BaseTest::setup::48 - Chrome browser maximised.
+[INFO ] 2026-10-12 07:03:12.678 [main] base.BaseTest::setup::50 - ImplicitlyWait set to 10 seconds.
+[INFO ] 2026-10-12 07:03:13.592 [main] base.BaseTest::setup::52 - Navigted to https://www.saucedemo.com/
+[INFO ] 2026-10-12 07:03:13.919 [main] pages.LoginPage::enterUsername::30 - Username entered: standard_user
+[INFO ] 2026-10-12 07:03:14.072 [main] pages.LoginPage::enterPassword::35 - Password entered: secret_sauce
+[INFO ] 2026-10-12 07:03:14.263 [main] pages.LoginPage::clickLoginButton::40 - Login button clicked.
+[INFO ] 2026-10-12 07:03:14.598 [main] pages.ProductsPage::getProductCount::40 - Total Products on the Products Page: 6
+[INFO ] 2026-10-12 07:03:14.978 [main] base.BaseTest::tearDown::58 - Chrome browser quit successfully.
+[INFO ] 2026-10-12 07:03:16.593 [main] base.BaseTest::setup::46 - Chrome browser launched successfully.
+[INFO ] 2026-10-12 07:03:16.683 [main] base.BaseTest::setup::48 - Chrome browser maximised.
+[INFO ] 2026-10-12 07:03:16.694 [main] base.BaseTest::setup::50 - ImplicitlyWait set to 10 seconds.
+[INFO ] 2026-10-12 07:03:17.438 [main] base.BaseTest::setup::52 - Navigted to https://www.saucedemo.com/
+[INFO ] 2026-10-12 07:03:17.743 [main] pages.LoginPage::enterUsername::30 - Username entered: standard_user
+[INFO ] 2026-10-12 07:03:17.911 [main] pages.LoginPage::enterPassword::35 - Password entered: secret_sauce
+[INFO ] 2026-10-12 07:03:18.090 [main] pages.LoginPage::clickLoginButton::40 - Login button clicked.
+[INFO ] 2026-10-12 07:03:18.389 [main] pages.ProductsPage::isProductPresent::49 - Product Sauce Labs Bike Light found on the Products Page.
+[INFO ] 2026-10-12 07:03:19.177 [main] base.BaseTest::tearDown::58 - Chrome browser quit successfully.
+[INFO ] 2026-10-12 07:03:20.825 [main] base.BaseTest::setup::46 - Chrome browser launched successfully.
+[INFO ] 2026-10-12 07:03:20.902 [main] base.BaseTest::setup::48 - Chrome browser maximised.
+[INFO ] 2026-10-12 07:03:20.915 [main] base.BaseTest::setup::50 - ImplicitlyWait set to 10 seconds.
+[INFO ] 2026-10-12 07:03:21.629 [main] base.BaseTest::setup::52 - Navigted to https://www.saucedemo.com/
+[INFO ] 2026-10-12 07:03:21.952 [main] pages.LoginPage::enterUsername::30 - Username entered: standard_user
+[INFO ] 2026-10-12 07:03:22.113 [main] pages.LoginPage::enterPassword::35 - Password entered: secret_sauce
+[INFO ] 2026-10-12 07:03:22.295 [main] pages.LoginPage::clickLoginButton::40 - Login button clicked.
+[INFO ] 2026-10-12 07:03:22.571 [main] pages.ProductsPage::clickLogout::60 - Menu button clicked
+[INFO ] 2026-10-12 07:03:23.235 [main] pages.ProductsPage::clickLogout::62 - Logout button clicked
+[INFO ] 2026-10-12 07:03:23.296 [main] pages.LoginPage::isLoginPageDisplayed::65 - Login page is displayed: true
+[INFO ] 2026-10-12 07:03:23.662 [main] base.BaseTest::tearDown::58 - Chrome browser quit successfully.
